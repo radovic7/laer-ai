@@ -50,9 +50,9 @@ const HeaderPage = () => {
                                         lineHeight: 1.4
                                     }}
                                 >
-                                    AIDA
+                                    Introducing
                                     <Box component="span" sx={{ ml: 2, color: theme.palette.primary.main }}>
-                                        Introducing
+                                        AIDA
                                     </Box>
                                 </Typography>
                             </motion.div>
