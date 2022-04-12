@@ -103,7 +103,7 @@ const HeaderPage = () => {
                                                 target="_blank"
                                                 size="large"
                                                 variant="contained"
-                                                color="secondary"
+                                                color="primary"
                                             >
                                                 Learn More
                                             </Button>

@@ -12,7 +12,7 @@ import { Logo } from 'utils/imgImport';
 const FooterWrapper = styled('div')(({ theme }) => ({
     padding: '35px 0',
     color: '#fff',
-    background: theme.palette.secondary.main,
+    background: theme.palette.primary.main,
     [theme.breakpoints.down('md')]: {
         textAlign: 'center'
     }
@@ -36,7 +36,7 @@ const FooterLink = styled(Link)({
 const FooterSubWrapper = styled('div')(({ theme }) => ({
     padding: '20px 0',
     color: '#fff',
-    background: theme.palette.secondary.dark,
+    background: theme.palette.primary.dark,
     [theme.breakpoints.down('md')]: {
         textAlign: 'center'
     }
