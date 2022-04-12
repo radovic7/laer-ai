@@ -1,6 +1,5 @@
 import PropTypes from 'prop-types';
 import React from 'react';
-import { Link as RouterLink } from 'react-router-dom';
 
 // material-ui
 import { useTheme } from '@mui/material/styles';
@@ -14,7 +13,6 @@ import {
     Link,
     List,
     ListItemButton,
-    ListItemIcon,
     ListItemText,
     Stack,
     Toolbar,
@@ -23,7 +21,6 @@ import {
 } from '@mui/material';
 
 // assets
-import { IconBook, IconCreditCard, IconDashboard, IconHome2 } from '@tabler/icons';
 import MenuIcon from '@mui/icons-material/Menu';
 import { Logo } from 'utils/imgImport';
 
