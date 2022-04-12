@@ -1,7 +1,7 @@
 import { Link as RouterLink } from 'react-router-dom';
 
 // material-ui
-import { useTheme, styled } from '@mui/material/styles';
+import { useTheme } from '@mui/material/styles';
 import { Box, Button, Container, Grid, Typography } from '@mui/material';
 
 // third party
